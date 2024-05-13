@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e6168a994343644ba56e75d5c7fa417, type: 3}
+  m_Name: NakedLegsSO
+  m_EditorClassIdentifier: 
+  pfItem: {fileID: 2257072164471895067, guid: 52ea9de92dca9af428262649c924cf98, type: 3}
+  sprite: {fileID: 21300000, guid: fb35ad47e70f3a3419b061f4218a1643, type: 3}
+  nameString: Naked Legs
+  requiredResources: []

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e6168a994343644ba56e75d5c7fa417, type: 3}
+  m_Name: Potion2SO
+  m_EditorClassIdentifier: 
+  pfItem: {fileID: 3102113915320323731, guid: c8102e6adac8269448f00d8fed80434a, type: 3}
+  sprite: {fileID: 21300000, guid: 7f5eaf959a1e1e646a9441de9cfb1a4c, type: 3}
+  nameString: Potion2
+  itemtype: 1
+  itemSound:
+  - {fileID: 8300000, guid: 3d5882c003eee8243bce625e64fbc30e, type: 3}
+  itemEffectAmount: 40
+  requiredResources:
+  - resourceSO: {fileID: 11400000, guid: 3511fd54eaeba2f43adee99e2c2ae0a6, type: 2}
+    amount: 150
+  - resourceSO: {fileID: 11400000, guid: cf085101bfbfe694f86c136e6bd101ee, type: 2}
+    amount: 50
